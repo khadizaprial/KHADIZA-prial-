@@ -1,0 +1,4 @@
+chips 20 200
+chocholate 30 500
+353453 30 500
+fdhgdfhfg 2 577
